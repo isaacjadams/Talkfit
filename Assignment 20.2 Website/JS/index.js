@@ -1,0 +1,1 @@
+document.write("https://www.samaritans.org/") //This will give the user a link to the samaritans website, located within the HTML
